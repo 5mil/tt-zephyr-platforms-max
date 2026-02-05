@@ -74,5 +74,5 @@ eth_property_table {
 product_spec_harvesting {
   dram_disable_count: 1
   eth_disabled: true
-  tensix_col_disable_count: 2
+  tensix_col_disable_count: 0
 }
